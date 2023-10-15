@@ -1,0 +1,621 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "ProductViewSet",
+        "importPath": "inventory.views",
+        "description": "inventory.views",
+        "isExtraImport": true,
+        "detail": "inventory.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.db",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db",
+        "description": "django.db",
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "inventory.models",
+        "description": "inventory.models",
+        "isExtraImport": true,
+        "detail": "inventory.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "inventory.models",
+        "description": "inventory.models",
+        "isExtraImport": true,
+        "detail": "inventory.models",
+        "documentation": {}
+    },
+    {
+        "label": "Description",
+        "importPath": "inventory.models",
+        "description": "inventory.models",
+        "isExtraImport": true,
+        "detail": "inventory.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "inventory.models",
+        "description": "inventory.models",
+        "isExtraImport": true,
+        "detail": "inventory.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "KiaEnterprises.asgi",
+        "description": "KiaEnterprises.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "KiaEnterprises.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-g)h_(#mh&c1#a18!l+yzi_f-kewhjarcc$vg^-19a)dl5m4a06'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-g)h_(#mh&c1#a18!l+yzi_f-kewhjarcc$vg^-19a)dl5m4a06'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'inventory'\n]",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'KiaEnterprises.urls'",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "ROOT_URLCONF = 'KiaEnterprises.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'KiaEnterprises.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "KiaEnterprises.settings",
+        "description": "KiaEnterprises.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "KiaEnterprises.settings",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "KiaEnterprises.urls",
+        "description": "KiaEnterprises.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r'inventory', viewset=ProductViewSet, basename='ProductQueryset')\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include(router.urls))   \n]",
+        "detail": "KiaEnterprises.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "KiaEnterprises.urls",
+        "description": "KiaEnterprises.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include(router.urls))   \n]",
+        "detail": "KiaEnterprises.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "KiaEnterprises.wsgi",
+        "description": "KiaEnterprises.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "KiaEnterprises.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "inventory.migrations.0001_initial",
+        "description": "inventory.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Product',\n            fields=[\n                ('id', models.UUIDField(default=uuid.uuid4, editable=False, primary_key=True, serialize=False)),\n                ('name', models.CharField(max_length=256)),",
+        "detail": "inventory.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "inventory.migrations.0002_alter_description_product",
+        "description": "inventory.migrations.0002_alter_description_product",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('inventory', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='description',\n            name='product',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='inventory.product'),\n        ),",
+        "detail": "inventory.migrations.0002_alter_description_product",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "inventory.migrations.0003_remove_product_image_images",
+        "description": "inventory.migrations.0003_remove_product_image_images",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('inventory', '0002_alter_description_product'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='product',\n            name='image',\n        ),\n        migrations.CreateModel(",
+        "detail": "inventory.migrations.0003_remove_product_image_images",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "inventory.migrations.0004_images_image",
+        "description": "inventory.migrations.0004_images_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('inventory', '0003_remove_product_image_images'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='images',\n            name='image',\n            field=models.TextField(default='Test Image'),\n        ),",
+        "detail": "inventory.migrations.0004_images_image",
+        "documentation": {}
+    },
+    {
+        "label": "DescriptionInline",
+        "kind": 6,
+        "importPath": "inventory.admin",
+        "description": "inventory.admin",
+        "peekOfCode": "class DescriptionInline(admin.StackedInline):  # or admin.StackedInline\n    model = Description\n    extra =  1\nclass ImagesInline(admin.StackedInline):  # or admin.StackedInline\n    model = Images\n    extra =  1\nclass ProductAdmin(admin.ModelAdmin):\n    inlines = [ImagesInline,DescriptionInline]\n# Register your models here.\nadmin.site.register(Product,ProductAdmin)",
+        "detail": "inventory.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ImagesInline",
+        "kind": 6,
+        "importPath": "inventory.admin",
+        "description": "inventory.admin",
+        "peekOfCode": "class ImagesInline(admin.StackedInline):  # or admin.StackedInline\n    model = Images\n    extra =  1\nclass ProductAdmin(admin.ModelAdmin):\n    inlines = [ImagesInline,DescriptionInline]\n# Register your models here.\nadmin.site.register(Product,ProductAdmin)\nadmin.site.register(Category)",
+        "detail": "inventory.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProductAdmin",
+        "kind": 6,
+        "importPath": "inventory.admin",
+        "description": "inventory.admin",
+        "peekOfCode": "class ProductAdmin(admin.ModelAdmin):\n    inlines = [ImagesInline,DescriptionInline]\n# Register your models here.\nadmin.site.register(Product,ProductAdmin)\nadmin.site.register(Category)",
+        "detail": "inventory.admin",
+        "documentation": {}
+    },
+    {
+        "label": "InventoryConfig",
+        "kind": 6,
+        "importPath": "inventory.apps",
+        "description": "inventory.apps",
+        "peekOfCode": "class InventoryConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'inventory'",
+        "detail": "inventory.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "inventory.models",
+        "description": "inventory.models",
+        "peekOfCode": "class Product(models.Model):\n    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)\n    name = models.CharField(null=False, max_length=256)\n    price = models.PositiveIntegerField(null=False)\n    hasSub = models.BooleanField(null=False)\n    def __str__(self):\n        return self.name\nclass Images(models.Model):\n    image = models.TextField(default=\"Test Image\")\n    product = models.ForeignKey(to = Product, on_delete=models.CASCADE)",
+        "detail": "inventory.models",
+        "documentation": {}
+    },
+    {
+        "label": "Images",
+        "kind": 6,
+        "importPath": "inventory.models",
+        "description": "inventory.models",
+        "peekOfCode": "class Images(models.Model):\n    image = models.TextField(default=\"Test Image\")\n    product = models.ForeignKey(to = Product, on_delete=models.CASCADE)\nclass Description(models.Model):\n    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)\n    product = models.ForeignKey(to=Product, on_delete=models.CASCADE)\n    about = models.TextField(null = False)\n    dimension = models.CharField(max_length=256)\n    weight = models.PositiveIntegerField()\n    def __str__(self):",
+        "detail": "inventory.models",
+        "documentation": {}
+    },
+    {
+        "label": "Description",
+        "kind": 6,
+        "importPath": "inventory.models",
+        "description": "inventory.models",
+        "peekOfCode": "class Description(models.Model):\n    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)\n    product = models.ForeignKey(to=Product, on_delete=models.CASCADE)\n    about = models.TextField(null = False)\n    dimension = models.CharField(max_length=256)\n    weight = models.PositiveIntegerField()\n    def __str__(self):\n        return self.about\nclass Category(models.Model):\n    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)",
+        "detail": "inventory.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "inventory.models",
+        "description": "inventory.models",
+        "peekOfCode": "class Category(models.Model):\n    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)\n    name = models.CharField(null=False, max_length=256)\n    products = models.ForeignKey(to= Product, on_delete= models.DO_NOTHING)\n    def __str__(self):\n        return self.name",
+        "detail": "inventory.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSerializer",
+        "kind": 6,
+        "importPath": "inventory.serializer",
+        "description": "inventory.serializer",
+        "peekOfCode": "class ProductSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Product\n        fields = \"__all__\"\nclass CategorySerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Category\n        fields = \"__all__\"\nclass DescriptionSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "inventory.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "CategorySerializer",
+        "kind": 6,
+        "importPath": "inventory.serializer",
+        "description": "inventory.serializer",
+        "peekOfCode": "class CategorySerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Category\n        fields = \"__all__\"\nclass DescriptionSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Description\n        fields = \"__all__\"",
+        "detail": "inventory.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DescriptionSerializer",
+        "kind": 6,
+        "importPath": "inventory.serializer",
+        "description": "inventory.serializer",
+        "peekOfCode": "class DescriptionSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Description\n        fields = \"__all__\"",
+        "detail": "inventory.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ProductViewSet",
+        "kind": 6,
+        "importPath": "inventory.views",
+        "description": "inventory.views",
+        "peekOfCode": "class ProductViewSet(viewsets.ViewSet):\n    def list(self, request):\n        products = Product.objects.all()\n        serialized = ProductSerializer(products, many=True)\n        return Response(serialized.data, status=status.HTTP_200_OK)",
+        "detail": "inventory.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'KiaEnterprises.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
