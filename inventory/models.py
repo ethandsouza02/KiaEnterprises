@@ -12,7 +12,17 @@ class Product(models.Model):
     def __str__(self):
         return self.name
     
-class Images(models.Model):
+    
+    
+class SubProduct(Product):
+    sub_quality = models.CharField(max_length=256)
+    product = models.ForeignKey(to = Product, on_delete=models.CASCADE, related_name="subproducts")
+
+    def __str__(self):
+        return self.name
+    
+    
+class Image(models.Model):
     image = models.TextField(default="Test Image")
     product = models.ForeignKey(to = Product, on_delete=models.CASCADE)
 

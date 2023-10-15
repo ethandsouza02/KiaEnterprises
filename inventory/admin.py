@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Description, Product, Category,Images
+from .models import Description, Product, Category,Image,SubProduct
 
 from django.contrib import admin
 
@@ -8,13 +8,17 @@ class DescriptionInline(admin.StackedInline):  # or admin.StackedInline
     extra =  1
 
 class ImagesInline(admin.StackedInline):  # or admin.StackedInline
-    model = Images
+    model = Image
     extra =  1
     
+class SubProductAdmin(admin.ModelAdmin):
+    inlines = [ImagesInline]
+
 class ProductAdmin(admin.ModelAdmin):
     inlines = [ImagesInline,DescriptionInline]
 
 
 # Register your models here.
 admin.site.register(Product,ProductAdmin)
+admin.site.register(SubProduct,SubProductAdmin)
 admin.site.register(Category)
